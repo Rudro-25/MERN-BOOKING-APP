@@ -45,9 +45,8 @@ router.post("/login", [
             secure: process.env.NODE_ENV === "production",
             maxAge: 86400000,
         });
-        res.status(200).json({iserId: user._id})
+        res.status(200).json({userId: user._id})
     } catch (error) {
-        console.log(error);
         res.status(500).json({ message: "Something went wrong" });
     }
     
@@ -55,6 +54,13 @@ router.post("/login", [
 
 router.get("/validate-token", verifyToken, (req: Request, res: Response) => {
     res.status(200).send({ userId: req.userId })
+});
+
+router.post("/logout", (req: Request, res: Response) => {
+    res.cookie("auth_token", "",{
+        expires: new Date(0),
+    });
+    res.send();
 });
 
 export default router;
