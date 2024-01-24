@@ -14,8 +14,8 @@ Technology:
 ##STEP##
 
 1. setup
-  - Vite + React setup
-  - MongoDB Setup
+   - Vite + React setup
+   - MongoDB Setup
 2. setup tailwind
 3. Adding layout
 4. auth explained & login and registration  
@@ -28,9 +28,10 @@ Technology:
 5. automated tests explained & auth tests
    - set up test database
    - auth test
+6. deployments explained and auth deployment
+   - deployment Build Scripts
+   - mongo db security setting
 
-
-deployments explained and auth deployment
 add hotel feature 
 add hotel feature deployment
 view my hotels feature
@@ -54,3 +55,4 @@ booking feature automated test
 booking feature deployment 
 
 
+**LIVE**
