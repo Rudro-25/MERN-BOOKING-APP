@@ -1,10 +1,11 @@
-*#Technology:*
-    **Frontend:** TypeScript, Tailwind CSS, JS
-    **Backend:** NodeJS, Express
-    **DB:** MongoDB
-    **API:** RESTapi
-    **Storage:** Cloudinary
-    **Deployment:** Render.com
+🚀 Technology:
+
+    **Frontend:** TypeScript, Tailwind CSS, JS    
+    **Backend:** NodeJS, Express    
+    **DB:** MongoDB   
+    **API:** RESTapi   
+    **Storage:** Cloudinary   
+    **Deployment:** Render.com  
 
 🔑 *Key Features of Our Booking App:*
 1. **User Authentication**: Learn to implement secure login and registration using HTTP cookies and JWT for a seamless user experience.
@@ -15,7 +16,7 @@
 6. **Booking Management**: Implement the feature to view and manage bookings, essential for any booking application.
 7. **Recent Hotels on Home Page**: Display recently added hotels on the home page, keeping the content dynamic and engaging.
 
-*##STEP##*
+🚨 STEP
 
 1. setup
    - Vite + React setup
