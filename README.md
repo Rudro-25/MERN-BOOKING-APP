@@ -1,5 +1,4 @@
-🚀 Technology:
-
+🚀 *Technology:*
     **Frontend:** TypeScript, Tailwind CSS, JS    
     **Backend:** NodeJS, Express    
     **DB:** MongoDB   
