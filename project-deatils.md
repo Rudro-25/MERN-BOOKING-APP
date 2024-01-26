@@ -1,6 +1,10 @@
-
 Technology:
-    Typescript, js, nodejs, express, REST api
+    Frontend: TypeScript, Tailwind CSS, JS
+    Backend: NodeJS, Express
+    DB: MongoDB
+    API: RESTapi
+    Storage: Cloudinary
+    Deployment: Render
 
 🔑 *Key Features of Our Booking App:*
 1. **User Authentication**: Learn to implement secure login and registration using HTTP cookies and JWT for a seamless user experience.
@@ -31,8 +35,13 @@ Technology:
 6. deployments explained and auth deployment
    - deployment Build Scripts
    - mongo db security setting
+7. add hotel feature 
+   - Cloundinary Setup
+   - Create Hotel API
+   - Create Hotel Form
 
-add hotel feature 
+
+
 add hotel feature deployment
 view my hotels feature
 view my hotels automated test
