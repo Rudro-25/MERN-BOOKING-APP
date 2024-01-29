@@ -15,6 +15,7 @@ export type HotelFormData = {
     starRating: number;
     facilities: string[];
     imageFiles: FileList;
+    imageUrls: string[];
     adultCount: number;
     childCount: number;
 }
@@ -24,7 +25,7 @@ type Props = {
     isLoading: boolean;
 };
 
-const ManageHotelForm = ({ onSave, isLoading }: Props) => {
+const  ManageHotelForm = ({ onSave, isLoading }: Props) => {
     const formMethods = useForm<HotelFormData>();
     const { handleSubmit } = formMethods;
 
@@ -62,10 +63,9 @@ const ManageHotelForm = ({ onSave, isLoading }: Props) => {
                     <button
                       disabled={isLoading}
                       type= "submit"
-                      className="bg-blue-600 text-white p-2 font bold hover:bg-blue-500 text-xl"
+                      className="bg-blue-600 text-white p-2 font-bold hover:bg-blue-500 text-xl disabled:bg-gray-500"
                     >
                         {isLoading? "Saving..." : "save"}
-                        Save
                     </button>
                 </span>
             </form>

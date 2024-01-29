@@ -13,7 +13,7 @@ const DetailsSection = () => {
             <label className="text-gray-700 text-sm font-bold flex-1">
                 Name
                 <input
-                    type="name"
+                    type="text"
                     className="border rounded w-full py-1 px-2 font-normal"
                     {...register("name", { required: "This field is required" })}
                 ></input>
@@ -25,7 +25,7 @@ const DetailsSection = () => {
                 <label className="text-gray-700 text-sm font-bold flex-1">
                     City
                     <input
-                        type="city"
+                        type="text"
                         className="border rounded w-full py-1 px-2 font-normal"
                         {...register("city", { required: "This field is required" })}
                     ></input>
@@ -36,7 +36,7 @@ const DetailsSection = () => {
                 <label className="text-gray-700 text-sm font-bold flex-1">
                     Country
                     <input
-                        type="country"
+                        type="text"
                         className="border rounded w-full py-1 px-2 font-normal"
                         {...register("country", { required: "This field is required" })}
                     ></input>
