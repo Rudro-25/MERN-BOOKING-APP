@@ -39,10 +39,10 @@
    - Cloundinary Setup
    - Create Hotel API
    - Create Hotel Form
+8. add hotel feature deployment
 
 
 
-add hotel feature deployment
 view my hotels feature
 view my hotels automated test
 view my hotels deployment
