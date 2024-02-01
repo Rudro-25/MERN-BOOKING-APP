@@ -40,11 +40,10 @@
    - Create Hotel API
    - Create Hotel Form
 8. add hotel feature deployment
+9. view my hotels feature
+10. view my hotels automated test
 
 
-
-view my hotels feature
-view my hotels automated test
 view my hotels deployment
 edit my hotel hotel
 edit my hotel automated test
