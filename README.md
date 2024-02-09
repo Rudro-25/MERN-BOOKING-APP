@@ -58,7 +58,17 @@
 24. stripe payments explained 
 25. stripe setup and booking feature
 26. booking feature automated test
-27. booking feature deployment 
+27. booking feature deployment
+
+# Render.com IPs to add to MongoDB:
+3.75.158.163
+3.125.183.140
+35.157.117.28
+
+# Other Links:
+Stripe: https://stripe.com/
+Cloudinary: https://cloudinary.com/
+MongoDB: https://mongodb.com
 
 # Setting Up the MERN Booking App
 
