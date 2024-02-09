@@ -1,3 +1,7 @@
+
+➤➤➤ **[LIVE LINK](https://mern-booking-app-96z6.onrender.com/)**
+
+
 🚀 *Technology:*   
     **Frontend:** TypeScript, Tailwind CSS, JS    
     **Backend:** NodeJS, Express    
@@ -190,5 +194,3 @@ cd MERN-BOOKING-APP
     - Start the frontend and backend server using the steps above
     - [Using the Playwright extension to run the tests](https://playwright.dev/docs/getting-started-vscode#running-tests)
 
-
-➤➤➤ **[LIVE LINK](https://mern-booking-app-96z6.onrender.com/)**
