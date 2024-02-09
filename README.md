@@ -42,25 +42,23 @@
 8. add hotel feature deployment
 9. view my hotels feature
 10. view my hotels automated test
-
-
-view my hotels deployment
-edit my hotel hotel
-edit my hotel automated test
-edit my hotel deployment
-search page & pagination feature
-sorting and filtering feature 
-search page feature automated test
-search page feature deployment
-hotel details page feature 
-hotel details page automated test
-hotel details page deployment
-save search terms to session storage
-booking confirmation page 
-stripe payments explained 
-stripe setup and booking feature
-booking feature automated test
-booking feature deployment 
+11. view my hotels deployment
+12. edit my hotel hotel
+13. edit my hotel automated test
+14. edit my hotel deployment
+15. search page & pagination feature
+16. sorting and filtering feature 
+17. search page feature automated test
+18. search page feature deployment
+19. hotel details page feature 
+20. hotel details page automated test
+21. hotel details page deployment
+22. save search terms to session storage
+23. booking confirmation page 
+24. stripe payments explained 
+25. stripe setup and booking feature
+26. booking feature automated test
+27. booking feature deployment 
 
 # Setting Up the MERN Booking App
 

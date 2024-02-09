@@ -1,6 +1,6 @@
 import { test, expect } from "@playwright/test";
 
-const UI_URL = "http://localhost:5173/";
+const UI_URL = "http://localhost:5174/";
 
 test("should allow the user to sign in", async ({ page }) => {
   await page.goto(UI_URL);
@@ -40,7 +40,7 @@ test("should allow user to register", async ({ page }) => {
   await page.locator("[name=confirmPassword]").fill("password123");
 
   await page.getByRole("button", { name: "Create Account" }).click();
-  
+
   await expect(page.getByText("Registration Success!")).toBeVisible();
   await expect(page.getByRole("link", { name: "My Bookings" })).toBeVisible();
   await expect(page.getByRole("link", { name: "My Hotels" })).toBeVisible();

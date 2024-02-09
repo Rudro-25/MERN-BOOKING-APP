@@ -2,21 +2,21 @@ export const hotelTypes = [
     "Budget",
     "Boutique",
     "Luxury",
-    "Ski Report",
-    "Bussiness",
+    "Ski Resort",
+    "Business",
     "Family",
     "Romantic",
     "Hiking Resort",
     "Cabin",
     "Beach Resort",
-    "Cabin",
+    "Golf Resort",
     "Motel",
     "All Inclusive",
     "Pet Friendly",
     "Self Catering",
-];
-
- export const hotelFacilities = [
+  ];
+  
+  export const hotelFacilities = [
     "Free WiFi",
     "Parking",
     "Airport Shuttle",
@@ -25,4 +25,4 @@ export const hotelTypes = [
     "Outdoor Pool",
     "Spa",
     "Fitness Center",
- ];
+  ];
